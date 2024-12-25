@@ -1,0 +1,24 @@
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\ConsoleApp4dnsserver.exe.config
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\ConsoleApp4dnsserver.exe
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\ConsoleApp4dnsserver.pdb
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.exe
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.pdb
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\DnsClient.dll
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\System.Buffers.dll
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\DnsClient.xml
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\System.Buffers.xml
+C:\Users\Z\source\repos\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.csproj.CopyComplete
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\ConsoleApp4dnsserver.exe.config
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\ConsoleApp4dnsserver.exe
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\ConsoleApp4dnsserver.pdb
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\DnsClient.dll
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\System.Buffers.dll
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\DnsClient.xml
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\bin\Debug\System.Buffers.xml
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.csproj.CopyComplete
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.exe
+C:\Users\Z\source\repos\cn project\ConsoleApp4dnsserver\ConsoleApp4dnsserver\obj\Debug\ConsoleApp4dnsserver.pdb

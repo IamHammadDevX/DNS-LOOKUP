@@ -1,0 +1,7 @@
+C:\Users\Z\source\repos\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe.config
+C:\Users\Z\source\repos\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.exe
+C:\Users\Z\source\repos\ServerHTTP\ServerHTTP\bin\Debug\ServerHTTP.pdb
+C:\Users\Z\source\repos\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.exe
+C:\Users\Z\source\repos\ServerHTTP\ServerHTTP\obj\Debug\ServerHTTP.pdb

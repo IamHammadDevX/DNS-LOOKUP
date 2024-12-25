@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Web Page</title>
+    <style>
+        /* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Navbar Styling */
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #333;
+            padding: 1rem 2rem;
+            color: #fff;
+        }
+
+        nav .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        nav ul {
+            display: flex;
+            list-style: none;
+        }
+
+        nav ul li {
+            margin-left: 1.5rem;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 1rem;
+            transition: color 0.3s ease;
+        }
+
+        nav ul li a:hover {
+            color: #00bcd4;
+        }
+
+        /* Hero Section Styling */
+        .hero {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 90vh;
+            background: linear-gradient(to right, #00bcd4, #2196f3);
+            color: #fff;
+            text-align: center;
+        }
+
+        .hero-content h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero-content p {
+            font-size: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        .hero-content a {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background-color: #fff;
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .hero-content a:hover {
+            background-color: #00bcd4;
+            color: #fff;
+        }
+
+        /* Footer Styling */
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav>
+        <div class="logo">MyWebsite</div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Welcome to MyWebsite</h1>
+            <p>Your go-to platform for awesome content and services.</p>
+            <a href="#">Learn More</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        &copy; 2024 MyWebsite. All Rights Reserved.
+    </footer>
+</body>
+</html>

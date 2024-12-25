@@ -1,0 +1,20 @@
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\bin\Debug\WindowsFormsApp1client.exe.config
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\bin\Debug\WindowsFormsApp1client.exe
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\bin\Debug\WindowsFormsApp1client.pdb
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.csproj.AssemblyReference.cache
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.Form1.resources
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.Properties.Resources.resources
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.csproj.GenerateResource.cache
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.exe
+C:\Users\Z\source\repos\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.pdb
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\bin\Debug\WindowsFormsApp1client.exe.config
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\bin\Debug\WindowsFormsApp1client.exe
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\bin\Debug\WindowsFormsApp1client.pdb
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.csproj.AssemblyReference.cache
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.DNS.resources
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.Properties.Resources.resources
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.csproj.GenerateResource.cache
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.csproj.CoreCompileInputs.cache
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.exe
+F:\Codes\3rd Sem Folder\codes\Computer Networks lab codes\WindowsFormsApp1client\WindowsFormsApp1client\WindowsFormsApp1client\obj\Debug\WindowsFormsApp1client.pdb
